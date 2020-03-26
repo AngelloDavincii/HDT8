@@ -1,7 +1,6 @@
 package com.company;
 
-public class Patient {
-
+public class Patient implements Comparable<Patient> {
     private String name;
     private String problem;
     private String key;
@@ -14,10 +13,9 @@ public class Patient {
     public String getKey(){
         return key;
     }
+
     @Override
-    public int CompareTo(Patient other){
+    public int compareTo(Patient other) {
         return this.getKey().compareTo(other.getKey());
     }
-
-
 }
