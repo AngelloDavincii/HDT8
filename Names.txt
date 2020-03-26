@@ -1,0 +1,10 @@
+Juan Perez, fractura de pierna, C
+Maria Ramirez, apendicitis, A
+Lorenzo Tolendo, chikunguya, E
+Carmen Sarmientos, dolores de parto, B
+Alejandro Buguini, diabetes, E
+Karla Garcia, coronavirus, A
+Ana Hernandez, desnutricion, B
+Luis Pedro, fractura, C
+Amadeus Mozart, contusion, E
+Lionel Messi, fiebre, C
