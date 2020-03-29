@@ -1,7 +1,5 @@
-package com.company;
 //@author Angel David Cuellar 18382
-//Clase extraida de la documentacion de Douglas subida a canvas
-import java.util.Arrays;
+
 import java.util.Iterator;
 import java.util.Vector;
 import java.util.PriorityQueue;
